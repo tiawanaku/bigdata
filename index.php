@@ -1536,7 +1536,7 @@ viverra purus tristique.</p>
 							 <img src="images/blog/blog1.jpg" alt="">
                          </div>
                        <div class="post-desc">
-                           <h4>Recomendaciones</h4>
+                           <h4>Recomendaciones BIG DATA</h4>
                            <h5>De acuerdo a los logros obtenidos del presente proyecto, surgen algunas recomendaciones del Sistema:</h5>
                            <li>
                                <ul>Ampliar la cantidad de datos en el dataset para realizar un estudio con mayor profundidad.</ul>
