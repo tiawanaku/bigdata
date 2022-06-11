@@ -1555,7 +1555,7 @@ viverra purus tristique.</p>
  
   <!--Start Testimonial-->  
   <section id="testimonials">
-                            <h4><b>Recomendaciones</b></h4>
+                            <h4><b>Recomendaciones Big Data</b></h4>
                            <h5><b>De acuerdo a los logros obtenidos del presente proyecto, surgen algunas recomendaciones del Sistema:</b></h5>
                            <p style="color:#0741F8";>
                            <b>Ampliar la cantidad de datos en el dataset para realizar un estudio con mayor profundidad.
