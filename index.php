@@ -697,9 +697,18 @@
                         </div>
                     </div>
                 </div>
+
+                <div class="col-md-4">
+                    <div class="services-box">
+                        <div class="services-icon">  </div>
+                        <div class="services-desc">
+                            
+                        </div>
+                    </div>
+                </div>
                 <!--End services Item-->
 
-                <h3>Marco Práctico</h3>
+                <h3 class="text-center">Marco Práctico</h3>
             <div class="col-md-6">
                     <div class="services-box">
                         <div class="services-desc">
