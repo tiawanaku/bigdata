@@ -903,11 +903,8 @@
             <div class="team-items team-carousel">
                 <!-- Team Member #1 -->
                 <div class="item">
-                    <img src="images/team/team1.jpg" alt="" />
                     <h4>Fernando Murguia</h4>
-                    <h5>Photogropher</h5>
-                    <p>Lorem ipsum dolor consectetur dolor consectetur adipisicing incididunt eiusmod temporcd
-                        incididunt consectetur laboredolore dolor adipisicing. </p>
+                    <h5>Estudiante UNIFRANZ , Ingenieria en Sistemas</h5>
 
                     <div class="socials">
                         <ul>
@@ -922,11 +919,7 @@
 
                 <!-- Team Member #2 -->
                 <div class="item">
-                    <img src="images/team/team2.jpg" alt="" />
-                    <h4>Samuel Maldonado</h4>
-                    <h5>Web Designer</h5>
-                    <p>Lorem ipsum dolor consectetur dolor consectetur adipisicing incididunt eiusmod temporcd
-                        incididunt consectetur laboredolore dolor adipisicing. </p>
+                    <h4>Samuel Maldonado</h4><h5>Estudiante UNIFRANZ , Ingenieria en Sistemas</h5>
 
                     <div class="socials">
                         <ul>
@@ -941,11 +934,7 @@
 
                 <!-- Team Member #3 -->
                 <div class="item">
-                    <img src="images/team/team3.jpg" alt="" />
-                    <h4>Jhoselyn Cardenas</h4>
-                    <h5>Graphic Designer</h5>
-                    <p>Lorem ipsum dolor consectetur dolor consectetur adipisicing incididunt eiusmod temporcd
-                        incididunt consectetur laboredolore dolor adipisicing. </p>
+                    <h4>Jhoselyn Cardenas</h4><h5>Estudiante UNIFRANZ , Ingenieria en Sistemas</h5>
 
                     <div class="socials">
                         <ul>
@@ -960,11 +949,7 @@
 
                 <!-- Team Member #4 -->
                 <div class="item">
-                    <img src="images/team/team4.jpg" alt="" />
-                    <h4>Cristhian Boyan</h4>
-                    <h5>Photogropher</h5>
-                    <p>Lorem ipsum dolor consectetur dolor consectetur adipisicing incididunt eiusmod temporcd
-                        incididunt consectetur laboredolore dolor adipisicing. </p>
+                    <h4>Cristhian Boyan</h4><h5>Estudiante UNIFRANZ , Ingenieria en Sistemas</h5>
 
                     <div class="socials">
                         <ul>
@@ -979,11 +964,7 @@
 
                 <!-- Team Member #5 -->
                 <div class="item">
-                    <img src="images/team/team1.jpg" alt="" />
-                    <h4>Franz Alanez</h4>
-                    <h5>Graphic Designer</h5>
-                    <p>Lorem ipsum dolor consectetur dolor consectetur adipisicing incididunt eiusmod temporcd
-                        incididunt consectetur laboredolore dolor adipisicing. </p>
+                    <h4>Franz Alanez</h4><h5>Estudiante UNIFRANZ , Ingenieria en Sistemas</h5>
 
                     <div class="socials">
                         <ul>
