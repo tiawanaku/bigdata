@@ -31,11 +31,7 @@
     <link href="css/style.css" type="text/css" rel="stylesheet" />
 
 
-    <!-- The HTML5 shim, for IE6-8 support of HTML5 elements -->
-    <!--[if lt IE 9]>
-        <script src="js/html5shiv.js"></script>
-        <script src="js/respond.min.js"></script>
-        <![endif]-->
+    <link rel="icon" href="images/logo.png">
 
 <body data-spy="scroll" data-target="#main-menu">
 
@@ -78,11 +74,11 @@
 
                             <li> <a href="#works">Objetivos</a> </li>
 
-                            <li> <a href="#team">Marco Practico</a> </li>
+                            <li> <a href="#team">Marco Teórico</a> </li>
 
-                            <li> <a href="#services">Conclusiones</a> </li>
+                            <li> <a href="#video">Conclusiones</a> </li>
 
-                            <li> <a href="#blog">Recomendaciones</a></li>
+                            <li> <a href="#blog">Integrantes</a></li>
 
                         </ul>
                     </div><!-- end main-menu -->
@@ -624,201 +620,13 @@
     <!--End portfolio-->
 
 
-
-    <!--Start Team-->
+    <!--Start Services-->
     <section id="team" class="section">
         <div class="container">
             <div class="row">
 
                 <div class="title-box text-center">
-                    <h2 class="title">Team</h2>
-                </div>
-
-            </div>
-
-            <!-- Team -->
-            <div class="team-items team-carousel">
-                <!-- Team Member #1 -->
-                <div class="item">
-                    <img src="images/team/team1.jpg" alt="" />
-                    <h4>Jonh Doe</h4>
-                    <h5>Photogropher</h5>
-                    <p>Lorem ipsum dolor consectetur dolor consectetur adipisicing incididunt eiusmod temporcd
-                        incididunt consectetur laboredolore dolor adipisicing. </p>
-
-                    <div class="socials">
-                        <ul>
-                            <li><a class="facebook" href="#"><i class="fa fa-facebook"></i></a></li>
-                            <li><a class="twitter" href="#"><i class="fa fa-twitter"></i></a></li>
-                            <li><a class="linkedin" href="#"><i class="fa fa-linkedin"></i></a></li>
-                            <li><a class="google-plus" href="#"><i class="fa fa-google-plus"></i></a></li>
-                        </ul>
-                    </div>
-                </div>
-                <!-- End Member -->
-
-                <!-- Team Member #2 -->
-                <div class="item">
-                    <img src="images/team/team2.jpg" alt="" />
-                    <h4>Jonh Doe</h4>
-                    <h5>Web Designer</h5>
-                    <p>Lorem ipsum dolor consectetur dolor consectetur adipisicing incididunt eiusmod temporcd
-                        incididunt consectetur laboredolore dolor adipisicing. </p>
-
-                    <div class="socials">
-                        <ul>
-                            <li><a class="facebook" href="#"><i class="fa fa-facebook"></i></a></li>
-                            <li><a class="twitter" href="#"><i class="fa fa-twitter"></i></a></li>
-                            <li><a class="linkedin" href="#"><i class="fa fa-linkedin"></i></a></li>
-                            <li><a class="google-plus" href="#"><i class="fa fa-google-plus"></i></a></li>
-                        </ul>
-                    </div>
-                </div>
-                <!-- End Member -->
-
-                <!-- Team Member #3 -->
-                <div class="item">
-                    <img src="images/team/team3.jpg" alt="" />
-                    <h4>Jonh Doe</h4>
-                    <h5>Graphic Designer</h5>
-                    <p>Lorem ipsum dolor consectetur dolor consectetur adipisicing incididunt eiusmod temporcd
-                        incididunt consectetur laboredolore dolor adipisicing. </p>
-
-                    <div class="socials">
-                        <ul>
-                            <li><a class="facebook" href="#"><i class="fa fa-facebook"></i></a></li>
-                            <li><a class="twitter" href="#"><i class="fa fa-twitter"></i></a></li>
-                            <li><a class="linkedin" href="#"><i class="fa fa-linkedin"></i></a></li>
-                            <li><a class="google-plus" href="#"><i class="fa fa-google-plus"></i></a></li>
-                        </ul>
-                    </div>
-                </div>
-                <!-- End Member -->
-
-                <!-- Team Member #4 -->
-                <div class="item">
-                    <img src="images/team/team4.jpg" alt="" />
-                    <h4>Jonh Doe</h4>
-                    <h5>Photogropher</h5>
-                    <p>Lorem ipsum dolor consectetur dolor consectetur adipisicing incididunt eiusmod temporcd
-                        incididunt consectetur laboredolore dolor adipisicing. </p>
-
-                    <div class="socials">
-                        <ul>
-                            <li><a class="facebook" href="#"><i class="fa fa-facebook"></i></a></li>
-                            <li><a class="twitter" href="#"><i class="fa fa-twitter"></i></a></li>
-                            <li><a class="linkedin" href="#"><i class="fa fa-linkedin"></i></a></li>
-                            <li><a class="google-plus" href="#"><i class="fa fa-google-plus"></i></a></li>
-                        </ul>
-                    </div>
-                </div>
-                <!-- End Member -->
-
-                <!-- Team Member #5 -->
-                <div class="item">
-                    <img src="images/team/team1.jpg" alt="" />
-                    <h4>Jonh Doe</h4>
-                    <h5>Graphic Designer</h5>
-                    <p>Lorem ipsum dolor consectetur dolor consectetur adipisicing incididunt eiusmod temporcd
-                        incididunt consectetur laboredolore dolor adipisicing. </p>
-
-                    <div class="socials">
-                        <ul>
-                            <li><a class="facebook" href="#"><i class="fa fa-facebook"></i></a></li>
-                            <li><a class="twitter" href="#"><i class="fa fa-twitter"></i></a></li>
-                            <li><a class="linkedin" href="#"><i class="fa fa-linkedin"></i></a></li>
-                            <li><a class="google-plus" href="#"><i class="fa fa-google-plus"></i></a></li>
-                        </ul>
-                    </div>
-                </div>
-                <!-- End Member -->
-
-                <!-- Team Member #6 -->
-                <div class="item">
-                    <img src="images/team/team2.jpg" alt="" />
-                    <h4>Jonh Doe</h4>
-                    <h5>Web Designer</h5>
-                    <p>Lorem ipsum dolor consectetur dolor consectetur adipisicing incididunt eiusmod temporcd
-                        incididunt consectetur laboredolore dolor adipisicing. </p>
-
-                    <div class="socials">
-                        <ul>
-                            <li><a class="facebook" href="#"><i class="fa fa-facebook"></i></a></li>
-                            <li><a class="twitter" href="#"><i class="fa fa-twitter"></i></a></li>
-                            <li><a class="linkedin" href="#"><i class="fa fa-linkedin"></i></a></li>
-                            <li><a class="google-plus" href="#"><i class="fa fa-google-plus"></i></a></li>
-                        </ul>
-                    </div>
-                </div>
-                <!-- End Member -->
-            </div>
-            <!-- End Team -->
-        </div>
-        <!-- End Content -->
-    </section>
-    <!--End Team-->
-
-
-    <!--Start Skills-->
-    <section id="skills" class="section parallax">
-        <div class="overlay"></div>
-        <div class="container">
-            <div class="row">
-
-                <div class="title-box text-center white">
-                    <h2 class="title">Technical Skills</h2>
-                </div>
-
-                <!--Skill #1-->
-                <div class="col-sm-3 col-md-3 col-lg-3 pie-chart-main">
-                    <span class="pie-chart " data-percent="87">
-                        <span class="percent"></span>
-                    </span>
-                    <h4>Photoshop</h4>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-                </div>
-
-                <!--Skill #2-->
-                <div class="col-sm-3 col-md-3 col-lg-3 pie-chart-main">
-                    <span class="pie-chart" data-percent="75">
-                        <span class="percent"></span>
-                    </span>
-                    <h4>Wordpress</h4>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-                </div>
-
-                <!--Skill #3-->
-                <div class="col-sm-3 col-md-3 col-lg-3 pie-chart-main">
-                    <span class="pie-chart " data-percent="60">
-                        <span class="percent"></span>
-                    </span>
-                    <h4>Graphic</h4>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-                </div>
-
-                <!--Skill #4-->
-                <div class="col-sm-3 col-md-3 col-lg-3 pie-chart-main">
-                    <span class="pie-chart" data-percent="95">
-                        <span class="percent"></span>
-                    </span>
-                    <h4>Development</h4>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-                </div>
-
-
-            </div> <!-- /.row-->
-        </div> <!-- /.container-->
-    </section>
-    <!--End Skills-->
-
-
-    <!--Start Services-->
-    <section id="services" class="section">
-        <div class="container">
-            <div class="row">
-
-                <div class="title-box text-center">
-                    <h2 class="title">Services</h2>
+                    <h2 class="title">Marco Teórico</h2>
                 </div>
 
                 <!--Services Item-->
@@ -826,9 +634,9 @@
                     <div class="services-box">
                         <div class="services-icon"> <i class="icon-basket"></i> </div>
                         <div class="services-desc">
-                            <h4>Development</h4>
-                            <p>Lorem ipsum dolor consectetur dolor consectetur adipisicing incididunt eiusmod tempor
-                                incididunt laboredolore adipisicing. </p>
+                            <h4>Google Colab</h4>
+                            <p>Google Colab es un entorno de portátil Jupyter que se ejecuta completamente en una nube. Maneja toda
+                                 la instalación y configuración requerida para su programa. Para que puedas empezar a escribir tu primer programa.</p>
                         </div>
                     </div>
                 </div>
@@ -839,9 +647,10 @@
                     <div class="services-box">
                         <div class="services-icon"> <i class="icon-shield"></i> </div>
                         <div class="services-desc">
-                            <h4>Web Design</h4>
-                            <p>Lorem ipsum dolor consectetur dolor consectetur adipisicing incididunt eiusmod tempor
-                                incididunt laboredolore adipisicing. </p>
+                            <h4>Python</h4>
+                            <p>Python es un lenguaje de programación de propósito general muy poderoso y flexible, a la vez que sencillo y fácil de aprender. 
+                                Es un lenguaje de alto nivel, que 
+                                permite procesar fácilmente todo tipo de estructuras de datos, tanto numéricos como de texto.</p>
                         </div>
                     </div>
                 </div>
@@ -852,9 +661,10 @@
                     <div class="services-box">
                         <div class="services-icon"> <i class="icon-hotairballoon"></i> </div>
                         <div class="services-desc">
-                            <h4>SEO</h4>
-                            <p>Lorem ipsum dolor consectetur dolor consectetur adipisicing incididunt eiusmod tempor
-                                incididunt laboredolore adipisicing. </p>
+                            <h4>Pandas</h4>
+                            <p>Pandas es una muy popular librería de código abierto dentro de los desarrolladores de Python, y sobre 
+                                todo dentro del ámbito de Data Science y Machine Learning, ya que ofrece unas 
+                                estructuras muy poderosas y flexibles que facilitan la manipulación y tratamiento de datos.</p>
                         </div>
                     </div>
                 </div>
@@ -865,9 +675,11 @@
                     <div class="services-box">
                         <div class="services-icon"> <i class="icon-global"></i> </div>
                         <div class="services-desc">
-                            <h4>Graphic Design</h4>
-                            <p>Lorem ipsum dolor consectetur dolor consectetur adipisicing incididunt eiusmod tempor
-                                incididunt laboredolore adipisicing. </p>
+                            <h4>Análisis de datos</h4>
+                            <p>A día de hoy, aunque no seamos todavía del todo conscientes, vivimos en un mundo en el que podemos sacar
+                                 información muy valiosa de los datos, aunque a priori no la conozcamos. El principal problema que nos 
+                                 encontramos es que, a simple vista, no somos capaces 
+                                de obtener ese conocimiento, por eso necesitamos de herramientas como Pandas que nos ayuden en este proceso</p>
                         </div>
                     </div>
                 </div>
@@ -878,26 +690,15 @@
                     <div class="services-box">
                         <div class="services-icon"> <i class="icon-target"></i> </div>
                         <div class="services-desc">
-                            <h4>Content Writing</h4>
-                            <p>Lorem ipsum dolor consectetur dolor consectetur adipisicing incididunt eiusmod tempor
-                                incididunt laboredolore adipisicing. </p>
+                            <h4>Tensorflow</h4>
+                            <p>TensorFlow es una biblioteca de código abierto para la computación numérica y Machine Learning a gran escala. 
+                                TensorFlow reúne una serie
+                                 de modelos y algoritmos de Machine Learning y Deep Learning y los hace útiles mediante una metáfora común</p>
                         </div>
                     </div>
                 </div>
                 <!--End services Item-->
 
-                <!--Services Item -->
-                <div class="col-md-4">
-                    <div class="services-box">
-                        <div class="services-icon"> <i class="icon-aperture"></i> </div>
-                        <div class="services-desc">
-                            <h4>HTML Basic</h4>
-                            <p>Lorem ipsum dolor consectetur dolor consectetur adipisicing incididunt eiusmod tempor
-                                incididunt laboredolore adipisicing. </p>
-                        </div>
-                    </div>
-                </div>
-                <!--End services Item-->
 
             </div>
             <!--/.row-->
@@ -907,45 +708,52 @@
     <!--End Services-->
 
 
-    <!--Start Why Choose us-->
-    <section id="why-choose" class="section">
+    <!--Start video-->
+    <section id="video" class="section parallax">
+        <div class="overlay"></div>
         <div class="container">
             <div class="row">
 
                 <div class="title-box text-center">
-                    <h2 class="title">Why Choose us</h2>
+                    <h2 class="title">CONCLUSIONES Y RECOMENDACIONES</h2>
                 </div>
 
                 <!--start tabs-->
-                <div class="col-md-6">
+                <div class="col-md-12">
                     <div class="tabs tabs-main">
                         <ul class="nav nav-tabs">
-                            <li class="active"><a href="#one" data-toggle="tab">Design</a></li>
-                            <li><a href="#two" data-toggle="tab">Company</a></li>
-                            <li><a href="#three" data-toggle="tab">Support</a></li>
+                            <li class="active"><a href="#one" data-toggle="tab">CONCLUSIONES</a></li>
+                            <li><a href="#two" data-toggle="tab">RECOMENDACIONES</a></li>
                         </ul>
                         <div class="tab-content">
 
                             <!--Start Tab Item #1 -->
                             <div class="tab-pane in active" id="one">
-                                <p>
-                                    Lorem ipsum dolor consectetur adipisicing incididunt eiusmod tempor incididunt
-                                    laboredolore magna aliqua. Lorem ipsum dolor consectetur adipisicing incididunt
-                                    eiusmod tempor incididunt laboredolore magna aliqua. Lorem ipsum dolor consectetur
-                                    adipisicing incididunt eiusmod tempor incididunt laboredolore magna aliqua. Lorem
-                                    ipsum dolor consectetur adipisicing incididunt eiusmod tempor incididunt
-                                    laboredolore magna aliqua.
+                                <p class="parrafo">
+                                Según a lo expuesto anteriormente, podemos concluir:
+                                <br>•	Se realizó el análisis del nivel de adaptación de estudiantes con un cierto rango de datos, 
+                                teniendo un dataset limitado y utilizando información solo de cierta parte de la población.
+                                <br>•	Google Colab, ayuda al análisis de información con herramientas que ayudan al entrenamiento y 
+                                selección de datos, con los cuales podemos obtener un análisis más preciso.
+                                <br>•	El algoritmo que nos dio mejores resultados, es el de K-NeighborsClassifier, con el cual pudimos 
+                                conseguir datos más exactos del estudio.
+
                                 </p>
                             </div>
                             <!-- End Tab -->
 
                             <!--Start Tab Item #2 -->
                             <div class="tab-pane" id="two">
-                                <p>
-                                    Lorem ipsum dolor consectetur adipisicing incididunt eiusmod tempor incididunt
-                                    laboredolore magna aliqua. Lorem ipsum dolor consectetur adipisicing incididunt
-                                    eiusmod tempor incididunt laboredolore magna aliqua. Lorem ipsum dolor consectetur
-                                    adipisicing incididunt eiusmod tempor incididunt laboredolore magna aliqua.
+                                <p class="parrafo">
+                                De acuerdo a los logros obtenidos del presente proyecto, surgen algunas recomendaciones del Sistema:
+                                <br>•	Ampliar la cantidad de datos en el dataset para realizar un estudio con mayor profundidad.
+                                <br>•	 Actualizar el código para que se permita el procesamiento de imágenes y video para
+                                 percibir las emociones de los estudiantes durante la clase en línea.
+                                <br>•	Alquilar un hosting y dominio profesional para el sistema web. 
+                                <br>•	Para mejorar la usabilidad se debería realizar una retroalimentación de las críticas de 
+                                los usuarios finales y llegar a una mejora significativa.
+                                <br>•	 Para mejorar la sostenibilidad hay que definir exactamente los módulos que se necesitan
+                                 dentro del sistema y estructurarlo de forma óptima para su posterior uso en proyecto más grandes.
                                 </p>
                             </div>
                             <!-- End Tab -->
@@ -965,156 +773,9 @@
                 </div>
                 <!-- End Tabs-->
 
-                <!--Start Accordion-->
-                <div class="col-md-6">
-                    <div class="panel-group accordion-main" id="accordion">
-                        <!--About accordion #1-->
-                        <div class="panel">
-                            <div class="panel-heading collapsed" data-toggle="collapse" data-parent="#accordion"
-                                data-target="#collapseOne">
-                                <h6 class="panel-title accordion-toggle">
-                                    Photography
-                                </h6>
-                            </div>
-                            <div id="collapseOne" class="panel-collapse collapse">
-                                <div class="panel-body">
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin non blandit nibh.
-                                        Sed eget tortor tincidunt, auctor sem eget, mollis nisi. Pellentesque ipsum
-                                        erat, facilisis ut venenatis eu, sodales vel dolor fusce diam ornare.
-                                    </p>
-
-                                </div>
-                            </div>
-                        </div>
-
-                        <!--About accordion #2-->
-                        <div class="panel">
-                            <div class="panel-heading collapsed" data-toggle="collapse" data-parent="#accordion"
-                                data-target="#collapseTwo">
-                                <h6 class="panel-title accordion-toggle">
-                                    Web Designing
-                                </h6>
-                            </div>
-                            <div id="collapseTwo" class="panel-collapse collapse">
-                                <div class="panel-body">
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin non blandit nibh.
-                                        Sed eget tortor tincidunt, auctor sem eget, mollis nisi. Pellentesque ipsum
-                                        erat, facilisis ut venenatis eu, sodales vel dolor fusce diam ornare.
-                                    </p>
-                                </div>
-                            </div>
-                        </div>
-
-                        <!--About accordion #3-->
-                        <div class="panel">
-                            <div class="panel-heading collapsed" data-toggle="collapse" data-parent="#accordion"
-                                data-target="#collapseThree">
-                                <h6 class="panel-title accordion-toggle">
-                                    Web Development
-                                </h6>
-                            </div>
-                            <div id="collapseThree" class="panel-collapse collapse">
-                                <div class="panel-body">
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin non blandit nibh.
-                                        Sed eget tortor tincidunt, auctor sem eget, mollis nisi. Pellentesque ipsum
-                                        erat, facilisis ut venenatis eu, sodales vel dolor fusce diam ornare.
-                                    </p>
-
-                                </div>
-                            </div>
-                        </div>
-
-                        <!--About accordion #4-->
-                        <div class="panel">
-                            <div class="panel-heading collapsed" data-toggle="collapse" data-parent="#accordion"
-                                data-target="#collapseFour">
-                                <h6 class="panel-title accordion-toggle">
-                                    Responsive Design
-                                </h6>
-                            </div>
-                            <div id="collapseFour" class="panel-collapse collapse">
-                                <div class="panel-body">
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin non blandit nibh.
-                                        Sed eget tortor tincidunt, auctor sem eget, mollis nisi. Pellentesque ipsum
-                                        erat, facilisis ut venenatis eu, sodales vel dolor fusce diam ornare.
-                                    </p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <!--End Accordion-->
-
             </div>
             <!--/.row-->
         </div>
-        <!--/.container-->
-    </section>
-    <!--End Why Choose us-->
-
-
-    <!--Start video-->
-    <section id="video" class="section parallax">
-        <div class="overlay"></div>
-        <div class="container">
-            <div class="row">
-
-                <div class="title-box text-center white">
-                    <h2 class="title">Video</h2>
-                </div>
-
-                <div class="col-md-6">
-                    <div class="video-caption-main">
-                        <!--Video caption #1-->
-                        <div class="video-caption">
-                            <div class="video-icon">
-                                <i class="fa fa-briefcase"></i>
-                            </div>
-                            <div class="video-caption-info">
-                                <h4>Take a look at this video to see how we work.</h4>
-                                <p>Lorem ipsum dolor consectetur adipisicing incididunt eiusmod tempor incididunt
-                                    laboredolore magna aliqua.</p>
-                            </div>
-                        </div>
-
-                        <!--Video caption #2-->
-                        <div class="video-caption">
-                            <div class="video-icon">
-                                <i class="fa fa-glass"></i>
-                            </div>
-                            <div class="video-caption-info">
-                                <h4>The programming language of ios apps</h4>
-                                <p>Lorem ipsum dolor consectetur adipisicing incididunt eiusmod tempor incididunt
-                                    laboredolore magna aliqua.</p>
-                            </div>
-                        </div>
-
-                        <!--Video caption #3-->
-                        <div class="video-caption">
-                            <div class="video-icon">
-                                <i class="fa fa-rocket "></i>
-                            </div>
-                            <div class="video-caption-info">
-                                <h4>Take a look at this video to see how we work.</h4>
-                                <p>Lorem ipsum dolor consectetur adipisicing incididunt eiusmod tempor incididunt
-                                    laboredolore magna aliqua.</p>
-                            </div>
-                        </div>
-
-                    </div>
-                </div>
-                <!-- End Video caption-->
-
-                <div class="col-md-6">
-                    <div class="play-video">
-                        <iframe
-                            src="http://player.vimeo.com/video/115919099?title=0&amp;byline=0&amp;portrait=0&amp;color=fff"
-                            allowfullscreen></iframe>
-                    </div>
-                </div>
-
-            </div> <!-- /.row-->
-        </div> <!-- /.container-->
     </section>
     <!--End video-->
 
@@ -1124,230 +785,154 @@
         <div class="container">
             <div class="row">
 
-                <div class="title-box text-center">
-                    <h2 class="title">Latest Blog</h2>
-                </div>
-
-                <!-- Start Blog item #1-->
                 <div class="col-md-4">
-                    <div class="blog-post">
-                        <div class="post-media">
-                            <img src="images/blog/blog1.jpg" alt="">
-                        </div>
-                        <div class="post-desc">
-                            <h4>Recomendaciones BIG DATA</h4>
-                            <h5>De acuerdo a los logros obtenidos del presente proyecto, surgen algunas recomendaciones
-                                del Sistema:</h5>
-                            <li>
-                                <ul>Ampliar la cantidad de datos en el dataset para realizar un estudio con mayor
-                                    profundidad.</ul>
-                                <ul>Actualizar el código para que se permita el procesamiento de imágenes y video para
-                                    percibir las emociones de los estudiantes durante la clase en línea.</ul>
-                                <ul>Alquilar un hosting y dominio profesional para el sistema web. </ul>
-                                <ul>Para mejorar la usabilidad se debería realizar una retroalimentación de las críticas
-                                    de los usuarios finales y llegar a una mejora significativa.</ul>
-                                <ul>Para mejorar la mantenibilidad hay que definir exactamente los módulos que se
-                                    necesitan dentro del sistema y estructurarlo de forma óptima para su posterior uso
-                                    en proyecto más grandes.</ul>
-                            </li>
-                        </div>
+                    <div class="services-box">
+                        <a target="_blank" href="https://colab.research.google.com/drive/1NXuIrRIHym3D_tNvMYyzJdxOU81JoO3b?usp=sharing#scrollTo=COBlaRg26IhG">
+                            <div class="services-icon"> <i class="icon-basket"></i> </div>
+                            <div class="services-desc">
+                                <h4>Link Google Colab</h4>
+                            </div>
+                            
+                        </a>
                     </div>
                 </div>
 
-
-                <!-- End blog-->
-
-
-                <!--Start Testimonial-->
-                <section id="testimonials">
-                    <h4><b>Recomendaciones Big Data</b></h4>
-                    <h5><b>De acuerdo a los logros obtenidos del presente proyecto, surgen algunas recomendaciones del
-                            Sistema:</b></h5>
-                    <p style="color:#0741F8" ;>
-                        <b>Ampliar la cantidad de datos en el dataset para realizar un estudio con mayor profundidad.
-                            Actualizar el código para que se permita el procesamiento de imágenes y video para percibir
-                            las emociones de los estudiantes durante la clase en línea.
-                            Alquilar un hosting y dominio profesional para el sistema web.
-                            Para mejorar la usabilidad se debería realizar una retroalimentación de las críticas de los
-                            usuarios finales y llegar a una mejora significativa.
-                            Para mejorar la mantenibilidad hay que definir exactamente los módulos que se necesitan
-                            dentro del sistema y estructurarlo de forma óptima para su posterior uso en proyecto más
-                            grandes.</b>
-                    </p>
-
-
-                </section>
-                <!--Start Testimonial-->
-
-
-                <!--Start clients-->
-                <section id="clients" class="section">
-                    <div class="container">
-                        <div class="row">
-
-                            <div class="title-box text-center">
-                                <h2 class="title">Our Clients</h2>
+                <!--Services Item-->
+                <div class="col-md-4">
+                    <div class="services-box">
+                        <a target="_blank" href="https://docs.google.com/presentation/d/1opzhPcXmQ9mhm7vtTnsPFIeDha8kF19v/edit?usp=sharing&ouid=104484301576962603095&rtpof=true&sd=true">
+                            <div class="services-icon"> <i class="icon-shield"></i> </div>
+                            <div class="services-desc">
+                                <h4>Diapositivas</h4>
                             </div>
 
-                            <div class="clients-carousel">
-
-                                <!-- Clients Logo Item-->
-                                <div class="item">
-                                    <a href="#">
-                                        <figure>
-                                            <img src="images/clients-logo/client1.png" alt="" />
-                                        </figure>
-                                    </a>
-                                </div>
-
-                                <!-- Clients Logo Item-->
-                                <div class="item">
-                                    <a href="#">
-                                        <figure>
-                                            <img src="images/clients-logo/client2.png" alt="" />
-                                        </figure>
-                                    </a>
-                                </div>
-
-                                <!-- Clients Logo Item-->
-                                <div class="item">
-                                    <a href="#">
-                                        <figure>
-                                            <img src="images/clients-logo/client3.png" alt="" />
-                                        </figure>
-                                    </a>
-                                </div>
-
-                                <!-- Clients Logo Item-->
-                                <div class="item">
-                                    <a href="#">
-                                        <figure>
-                                            <img src="images/clients-logo/client4.png" alt="" />
-                                        </figure>
-                                    </a>
-                                </div>
-
-                                <!-- Clients Logo Item-->
-                                <div class="item">
-                                    <a href="#">
-                                        <figure>
-                                            <img src="images/clients-logo/client2.png" alt="" />
-                                        </figure>
-                                    </a>
-                                </div>
-
-                                <!-- Clients Logo Item-->
-                                <div class="item">
-                                    <a href="#">
-                                        <figure>
-                                            <img src="images/clients-logo/client5.png" alt="" />
-                                        </figure>
-                                    </a>
-                                </div>
-
-                                <!-- Clients Logo Item-->
-                                <div class="item">
-                                    <a href="#">
-                                        <figure>
-                                            <img src="images/clients-logo/client4.png" alt="" />
-                                        </figure>
-                                    </a>
-                                </div>
-
-                                <!-- Clients Logo Item-->
-                                <div class="item">
-                                    <a href="#">
-                                        <figure>
-                                            <img src="images/clients-logo/client1.png" alt="" />
-                                        </figure>
-                                    </a>
-                                </div>
-                            </div>
-                        </div>
-                        <!--/.row-->
+                        </a>
                     </div>
-                    <!--/.container-->
-                </section>
-                <!--End clients-->
+                </div>
 
-
-                <!--Start Contact-->
-                <section id="contact" class="section parallax">
-                    <div class="overlay"></div>
-                    <div class="container">
-                        <div class="row">
-
-                            <div class="title-box text-center white">
-                                <h2 class="title">Contact</h2>
+                <div class="col-md-4">
+                    <div class="services-box">
+                        <a target="_blank" href="https://gist.githubusercontent.com/SamuelAlejandroMaldonado/c01381c71bd62b74ab693087b21866f6/raw/31922744e68340be8da4d0a8a4c3939284942818/students_adaptability_level_online_education.csv">
+                            <div class="services-icon"> <i class="icon-basket"></i> </div>
+                            <div class="services-desc">
+                                <h4>Link Dataset</h4>
                             </div>
-                        </div>
+                            
+                        </a>
+                    </div>
+                </div>
 
-                        <!--Start contact form-->
-                        <div class="col-md-8 col-md-offset-2 contact-form">
+            </div>
+            <div class="row">
 
-                            <div class="contact-info text-center">
-                                <p>123 4567 890</p>
-                                <p>123 lorem ipsum, 4th floor, lorem, ipsum </p>
-                                <p>mail@demo.com </p>
-                            </div>
+                <div class="title-box text-center">
+                    <h2 class="title">Integrantes</h2>
+                </div>
 
-                            <form method="post">
-                                <div class="row">
-                                    <div class="col-md-4">
-                                        <input class="form-control" id="name" placeholder="Full Name" type="text">
-                                    </div>
-                                    <div class="col-md-4">
-                                        <input class="form-control" id="email" placeholder="Your Email" type="email">
-                                    </div>
-                                    <div class="col-md-4">
-                                        <input class="form-control" id="subject" placeholder="Subject" type="text">
-                                    </div>
-                                    <div class="col-md-12">
-                                        <textarea class="form-control" id="message" rows="7"
-                                            placeholder="Your Message"></textarea>
-                                    </div>
-                                    <div class="col-md-12 text-right">
-                                        <button type="submit" class="btn btn-green">SEND MESSAGE</button>
-                                    </div>
-                                </div>
-                            </form>
-                        </div>
-                        <!--End contact form-->
-
-                    </div> <!-- /.container-->
-                </section>
-                <!--End Contact-->
+            </div>
 
 
-                <!--Start Footer-->
-                <footer>
-                    <div class="container">
-                        <div class="row">
-                            <!--Start copyright-->
-                            <div class="col-md-6 col-sm-6 col-xs-6">
-                                <div class="copyright">
-                                    <p>Copyright © 2016 All Rights reserved by: <a
-                                            href="http://templatestock.co">Template Stock</a>
-                                    </p>
-                                </div>
-                            </div>
-                            <!--End copyright-->
+            <!-- Team -->
+            <div class="team-items team-carousel">
+                <!-- Team Member #1 -->
+                <div class="item">
+                    <img src="images/team/team1.jpg" alt="" />
+                    <h4>Fernando Murguia</h4>
+                    <h5>Photogropher</h5>
+                    <p>Lorem ipsum dolor consectetur dolor consectetur adipisicing incididunt eiusmod temporcd
+                        incididunt consectetur laboredolore dolor adipisicing. </p>
 
-                            <!--start social icons-->
-                            <div class="col-md-6 col-sm-6 col-xs-6">
-                                <div class="social-icons">
-                                    <ul>
-                                        <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                                        <li> <a href="#"><i class="fa fa-twitter"></i></a></li>
-                                        <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
-                                        <li><a href="#"><i class="fa fa-instagram"></i></a></li>
-                                    </ul>
-                                </div>
-                            </div>
-                            <!--End social icons-->
-                        </div> <!-- /.row-->
-                    </div> <!-- /.container-->
-                </footer>
+                    <div class="socials">
+                        <ul>
+                            <li><a class="facebook" href="#"><i class="fa fa-facebook"></i></a></li>
+                            <li><a class="twitter" href="#"><i class="fa fa-twitter"></i></a></li>
+                            <li><a class="linkedin" href="#"><i class="fa fa-linkedin"></i></a></li>
+                            <li><a class="google-plus" href="#"><i class="fa fa-google-plus"></i></a></li>
+                        </ul>
+                    </div>
+                </div>
+                <!-- End Member -->
+
+                <!-- Team Member #2 -->
+                <div class="item">
+                    <img src="images/team/team2.jpg" alt="" />
+                    <h4>Samuel Maldonado</h4>
+                    <h5>Web Designer</h5>
+                    <p>Lorem ipsum dolor consectetur dolor consectetur adipisicing incididunt eiusmod temporcd
+                        incididunt consectetur laboredolore dolor adipisicing. </p>
+
+                    <div class="socials">
+                        <ul>
+                            <li><a class="facebook" href="#"><i class="fa fa-facebook"></i></a></li>
+                            <li><a class="twitter" href="#"><i class="fa fa-twitter"></i></a></li>
+                            <li><a class="linkedin" href="#"><i class="fa fa-linkedin"></i></a></li>
+                            <li><a class="google-plus" href="#"><i class="fa fa-google-plus"></i></a></li>
+                        </ul>
+                    </div>
+                </div>
+                <!-- End Member -->
+
+                <!-- Team Member #3 -->
+                <div class="item">
+                    <img src="images/team/team3.jpg" alt="" />
+                    <h4>Jhoselyn Cardenas</h4>
+                    <h5>Graphic Designer</h5>
+                    <p>Lorem ipsum dolor consectetur dolor consectetur adipisicing incididunt eiusmod temporcd
+                        incididunt consectetur laboredolore dolor adipisicing. </p>
+
+                    <div class="socials">
+                        <ul>
+                            <li><a class="facebook" href="#"><i class="fa fa-facebook"></i></a></li>
+                            <li><a class="twitter" href="#"><i class="fa fa-twitter"></i></a></li>
+                            <li><a class="linkedin" href="#"><i class="fa fa-linkedin"></i></a></li>
+                            <li><a class="google-plus" href="#"><i class="fa fa-google-plus"></i></a></li>
+                        </ul>
+                    </div>
+                </div>
+                <!-- End Member -->
+
+                <!-- Team Member #4 -->
+                <div class="item">
+                    <img src="images/team/team4.jpg" alt="" />
+                    <h4>Cristhian Boyan</h4>
+                    <h5>Photogropher</h5>
+                    <p>Lorem ipsum dolor consectetur dolor consectetur adipisicing incididunt eiusmod temporcd
+                        incididunt consectetur laboredolore dolor adipisicing. </p>
+
+                    <div class="socials">
+                        <ul>
+                            <li><a class="facebook" href="#"><i class="fa fa-facebook"></i></a></li>
+                            <li><a class="twitter" href="#"><i class="fa fa-twitter"></i></a></li>
+                            <li><a class="linkedin" href="#"><i class="fa fa-linkedin"></i></a></li>
+                            <li><a class="google-plus" href="#"><i class="fa fa-google-plus"></i></a></li>
+                        </ul>
+                    </div>
+                </div>
+                <!-- End Member -->
+
+                <!-- Team Member #5 -->
+                <div class="item">
+                    <img src="images/team/team1.jpg" alt="" />
+                    <h4>Franz Alanez</h4>
+                    <h5>Graphic Designer</h5>
+                    <p>Lorem ipsum dolor consectetur dolor consectetur adipisicing incididunt eiusmod temporcd
+                        incididunt consectetur laboredolore dolor adipisicing. </p>
+
+                    <div class="socials">
+                        <ul>
+                            <li><a class="facebook" href="#"><i class="fa fa-facebook"></i></a></li>
+                            <li><a class="twitter" href="#"><i class="fa fa-twitter"></i></a></li>
+                            <li><a class="linkedin" href="#"><i class="fa fa-linkedin"></i></a></li>
+                            <li><a class="google-plus" href="#"><i class="fa fa-google-plus"></i></a></li>
+                        </ul>
+                    </div>
+                </div>
+                <!-- End Member -->
+
+            </div>
+            <!-- End Team -->
+        </div>
+
                 <!--End Footer-->
 
                 <a href="#" class="scrollup"> <i class="fa fa-chevron-up"> </i> </a>

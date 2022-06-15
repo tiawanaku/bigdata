@@ -43,6 +43,17 @@ p {
 	color: #727272;
 	font-weight: 400;
 }
+
+.parrafo {
+	margin-bottom: 22px;
+	font-family: "Open Sans", sans-serif;
+	font-size:14px;
+	line-height: 25px;
+	color: #fafafa;
+	font-weight: 400;
+	background-color: #262B37;
+}
+
 a {
 	color:#7EC13F;
 	background:none;
@@ -1862,7 +1873,7 @@ ul.timeline {
 	border-top:none;
 	padding:25px 15px;
 	font-size:14px;
-	color:#a9a9a9;
+	color:#010101;
 }
 
 .panel-group .panel-heading {
