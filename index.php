@@ -707,7 +707,8 @@
                     </div>
                 </div>
                 <!--End services Item-->
-
+</row>
+<row><br>
                 <h3 class="text-center">Marco Práctico</h3>
             <div class="col-md-6">
                     <div class="services-box">
