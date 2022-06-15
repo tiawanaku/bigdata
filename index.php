@@ -701,6 +701,72 @@
 
 
             </div>
+
+            <h3>Marco Práctico</h3>
+            <div class="row">
+            <div class="col-md-6">
+                    <div class="services-box">
+                        <div class="services-desc">
+                            <h4>IMPORTACIÓN DE LA DATA</h4>
+                            <img src="images/codigo/1.PNG" width="250">
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-6">
+                    <div class="services-box">
+                        <div class="services-desc">
+                            <h4>LIMPIAMOS LOS DATOS</h4>
+                            <img src="images/codigo/2.PNG" width="250">
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-6">
+                    <div class="services-box">
+                        <div class="services-desc">
+                            <h4>DEFINIMOS VARIABLES DEL DATASET</h4>
+                            <img src="images/codigo/3.PNG" width="250">
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-6">
+                    <div class="services-box">
+                        <div class="services-desc">
+                            <h4>VISUALIZAMOS EN GRÁFICAS LOS DATOS SEGUN EL GENERO, EDAD, ETC.</h4>
+                            <img src="images/codigo/4.PNG" width="250">
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-6">
+                    <div class="services-box">
+                        <div class="services-desc">
+                            <h4>GRÁFICOS</h4>
+                            <img src="images/codigo/5.PNG" width="250">
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-6">
+                    <div class="services-box">
+                        <div class="services-desc">
+                            <h4>NIVEL DE ADAPTABILIDAD</h4>
+                            <img src="images/codigo/6.PNG" width="250">
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-6">
+                    <div class="services-box">
+                        <div class="services-desc">
+                            <h4>MODELOS A USAR</h4>
+                            <img src="images/codigo/7.PNG" width="250">
+                        </div>
+                    </div>
+                </div>
+            </div>
             <!--/.row-->
         </div>
         <!--/.container-->
